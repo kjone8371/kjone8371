@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, My name is kjone8371</h1>
 <h3 align="center">I am a back-end developer at Daegu Software Meister High School.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://instagram.com/jwyony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jwyony" height="30" width="40" /></a>
 </p>
 
@@ -10,7 +8,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kjone8371&show_icons=true&locale=en" alt="kjone8371" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kjone8371&" alt="kjone8371" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
