@@ -22,3 +22,25 @@ I am a back-end developer at Daegu Software Meister High School.</h2>
 <br>
 <h3 align="left">Connect with me</h3>
 <a href="https://instagram.com/jwyony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jwyony" height="30" width="40" /></a>
+
+
+
+
+<br clear="both">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/kjone8371/kjone8371/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/kjone8371/kjone8371/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/kjone8371/kjone8371/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+
