@@ -1,9 +1,9 @@
 <h2>Hi 👋, My name is kjone8371 <br>
 I am a back-end developer at Daegu Software Meister High School.</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kjone8371&show_icons=true&locale=en&layout=compact" alt="kjone8371" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kjone8371&show_icons=true&locale=en&layout=compact&theme=dark" alt="kjone8371" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kjone8371&show_icons=true&locale=en" alt="kjone8371" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kjone8371&show_icons=true&locale=en&theme=dark" alt="kjone8371" /></p>
 
 
 <a href="https://instagram.com/jwyony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jwyony" height="30" width="40" /></a>
