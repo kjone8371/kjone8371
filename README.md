@@ -11,3 +11,5 @@ I am a back-end developer at Daegu Software Meister High School.</h2>
 <br>
 
 <a href="https://instagram.com/jwyony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jwyony" height="30" width="40" /></a>
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
