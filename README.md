@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is kjone8371 <br>s
+<h1 align="center">Hi 👋, My name is kjone8371 <br>
 I am a back-end developer at Daegu Software Meister High School.</h1>
 
 
