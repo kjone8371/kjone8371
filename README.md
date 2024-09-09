@@ -19,6 +19,7 @@ I am a back-end developer at Daegu Software Meister High School.</h2>
 </p>
 
 
+
 <br clear="both">
 
 <picture>
