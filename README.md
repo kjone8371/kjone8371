@@ -2,9 +2,11 @@
 I am a back-end developer at Daegu Software Meister High School.</h2>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kjone8371&show_icons=true&locale=en&layout=compact" alt="kjone8371" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kjone8371&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="kjone8371" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kjone8371&show_icons=true&locale=en&theme=blueberry" alt="kjone8371" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kjone8371&show_icons=true&locale=en" alt="kjone8371" /></p>
 
 
 <h3 align="left">Languages and Tools </h3>
