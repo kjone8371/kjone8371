@@ -4,7 +4,6 @@ I am a back-end developer at Daegu Software Meister High School.</h2>
 <p><img align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kjone8371&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kjone8371" /></p>
 
 <p>&nbsp;<img align="center" width="350px" src="https://github-readme-stats.vercel.app/api?username=kjone8371&show_icons=true&locale=en&theme=tokyonight" alt="kjone8371" /></p>
-
 <img align="right" height="150" src="![dream-3815215_1920](https://github.com/user-attachments/assets/241027d3-00a4-4b9d-bc8f-0f6a10ecea8d)"/>
 
 
