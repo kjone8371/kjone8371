@@ -29,8 +29,8 @@ I am a back-end developer at Daegu Software Meister High School.</h2>
     srcset="https://raw.githubusercontent.com/kjone8371/kjone8371/output/github-contribution-grid-snake-dark.svg"
   />
   <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/kjone8371/kjone8371/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/kjone8371/kjone8371/output/github-contribution-grid-snake-light.svg"
+    alt="GitHub contribution grid"
   />
 </picture>
 
