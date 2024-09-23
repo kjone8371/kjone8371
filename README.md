@@ -7,6 +7,8 @@ I am a back-end developer at Daegu Software Meister High School.</h2>
    <img src="https://github-readme-stats.vercel.app/api?username=kjone8371&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kjone8371&show_icons=true&locale=en" alt="kjone8371" /></p>
+
 
 
 <h3 align="left">Languages and Tools </h3>
@@ -22,9 +24,6 @@ I am a back-end developer at Daegu Software Meister High School.</h2>
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9H6uN23M" height="30" width="40" />
 </a>
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kjone8371&show_icons=true&locale=en" alt="kjone8371" /></p>
 
 
 <br clear="both">
