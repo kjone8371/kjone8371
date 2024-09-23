@@ -14,10 +14,14 @@ I am a back-end developer at Daegu Software Meister High School.</h2>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://fb.com/김정원" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="김정원" height="30" width="40" /></a>
-<a href="https://instagram.com/jwyony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jwyony" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/WzE8QhNT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/WzE8QhNT" height="30" width="40" /></a>
-</p>
+<a href="https://fb.com/김정원" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="김정원" height="30" width="40" /></a>
+<a href="https://instagram.com/jwyony" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jwyony" height="30" width="40" /></a>
+<a href="https://discord.gg/9H6uN23M" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9H6uN23M" height="30" width="40" />
+</a>
+
 
 
 
