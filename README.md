@@ -24,6 +24,8 @@ I am a back-end developer at Daegu Software Meister High School.</h2>
 
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kjone8371&show_icons=true&locale=en" alt="kjone8371" /></p>
+
 
 <br clear="both">
 
