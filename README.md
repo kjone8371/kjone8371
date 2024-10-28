@@ -43,7 +43,7 @@ I'm Back-End developer at Daegu Software Meister High School.</h2>
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/127005459?v=4" />
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
-    <img src="https://github.com/user-attachments/assets/eb42222a-0b0f-4c44-b8e9-499f0e3f926c" alt="ExporCar Logo" style="width: 100px; height: auto; margin-right: 10px;" />
+    <img align="right" height="150" src="https://avatars.githubusercontent.com/u/127005459?v=4" />
     <h3 style="margin: 0;">My Projects</h3>
 </div>
 <p align="left">
