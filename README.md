@@ -41,11 +41,13 @@ I'm Back-End developer at Daegu Software Meister High School.</h2>
 </picture>
 
 
-<img src="https://github.com/user-attachments/assets/eb42222a-0b0f-4c44-b8e9-499f0e3f926c" alt="ExporCar Logo" style="float: right; width: 100px; height: auto;" />
-
-<h3 align="left">My Projects</h3>
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/user-attachments/assets/eb42222a-0b0f-4c44-b8e9-499f0e3f926c" alt="ExporCar Logo" style="width: 100px; height: auto; margin-right: 10px;" />
+    <h3 align="left">My Projects</h3>
+</div>
 <p align="left">
-  <a href="https://github.com/orgs/exporcar-cozllia/repositories" target="_blank">Check out my repositories here!</a>
+    <a href="https://github.com/orgs/exporcar-cozllia/repositories" target="_blank">Check out my repositories here!</a>
 </p>
+
 
 
