@@ -15,9 +15,9 @@ I'm Back-End developer at Daegu Software Meister High School.</h2>
 <p align="left">
 <a href="https://fb.com/김정원" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="김정원" height="30" width="40" /></a>
-<a href="https://instagram.com/jwyony" target="blank">
+<a href="[https://instagram.com/jwyony](https://www.instagram.com/jeongwon_1082/)" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jwyony" height="30" width="40" /></a>
-<a href="https://discord.gg/9H6uN23M" target="blank">
+<a href="[https://discord.gg/9H6uN23M](https://discord.gg/9CemBC3B)" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9H6uN23M" height="30" width="40" />
 </a>
 
