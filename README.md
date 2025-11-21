@@ -1,5 +1,5 @@
 <h2>Hi 👋, My name is kjone8371 <br>
-I'm Back-End developer at Daegu Software Meister High School.</h2>
+I'm Back-End developer Software.</h2>
 
 
 <div align="left">
