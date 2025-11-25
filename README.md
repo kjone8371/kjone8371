@@ -3,7 +3,7 @@ I'm Back-End developer Software.</h2>
 
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjone8371&layout=compact&theme=transparent" alt="top langs"/>
 
 </div>
 
